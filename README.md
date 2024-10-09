@@ -19,10 +19,15 @@ $pass = 'YOUR DB PASSWORD';
 ### Usage
 
 **Timed Image Display:** Users view an image for exactly five seconds to simulate quick information exposure.
+
 **Interactive Rating System:** Users rate the website's trustworthiness using clickable boxes ranging from 1 to 10.
+
 **Responsive Design:** Clean and responsive user interface that works seamlessly across devices.
+
 **Secure Data Handling:** Utilizes PDO for secure database interactions and input sanitization to prevent SQL injection and XSS attacks.
+
 **Session Management:** Ensures users can only submit responses once per session.
+
 **Contributions:** Contributions are welcome! If you'd like to enhance the project or fix bugs, please submit a pull request or open an issue.
 
 ### Requirements
